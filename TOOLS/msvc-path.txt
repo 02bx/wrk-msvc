@@ -1,0 +1,6 @@
+msvcx64
+E:\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64
+
+msvcx86
+E:\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.24.28314\bin\Hostx86\x86
+
